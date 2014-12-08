@@ -390,9 +390,9 @@ int main(int argc, char *argv[]) {
 	}
 
 	/*
-	 * Sleep the process for 60 mins, should be enough time
+	 * Sleep the process for 5 mins, should be enough time
 	 */
-	sleep(7200);
+	sleep(300);
 
 	return 0;
 }
